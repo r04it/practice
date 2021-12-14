@@ -1,0 +1,15 @@
+this is 2nd file.
+clear
+
+exit
+cat text1.txt
+rohit
+
+
+
+
+
+vim
+clear
+quit()
+vi
